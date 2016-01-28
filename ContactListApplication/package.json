@@ -1,0 +1,12 @@
+{
+  "name": "contactlistapplication",
+  "version": "1.0.0",
+  "description": "This is an application using MEAN Stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "author": "Chamara Jayalath",
+  "license": "ISC"
+}
