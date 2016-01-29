@@ -8,5 +8,10 @@
     "start": "node server.js"
   },
   "author": "Chamara Jayalath",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.4",
+    "mongojs": "^2.3.0"
+  }
 }
