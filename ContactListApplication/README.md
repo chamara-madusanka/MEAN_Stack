@@ -6,7 +6,6 @@ application suing MEAN Stack.
 ## Requirements
 
 * NodeJS with npm
-* Bower
 * MongoDB
 
 ## Installation
